@@ -1,0 +1,6 @@
+[book]
+authors = ["Bunyamin Inan"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Bevy Docs"
